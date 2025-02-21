@@ -1,6 +1,6 @@
 
 
-#🏦 **Bank Reconciliation and Cash Flow Analysis**
+# 🏦 **Bank Reconciliation and Cash Flow Analysis**
 
 ## **Overview**
 This project demonstrates the process of performing **bank reconciliations** and **cash flow analysis** using real-world financial transaction data. The goal is to ensure that cash flows are accurately recorded and reconciled between **bank transactions** (deposits and withdrawals) and **store sales data**. It also includes an in-depth analysis of daily cash flow and variance reports to identify discrepancies, such as cash shortages or excess.
